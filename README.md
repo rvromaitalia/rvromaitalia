@@ -7,7 +7,7 @@ I’m passionate about building reliable systems, writing clean code, and automa
 ---
 
 ### 👨‍💻 About Me
-- 🎯 **Background:** Studied **Applied Mathematics & Process Automation** at **Yerevan State University**, Armenia.
+- 🎯 **Background:** Studied **[Applied Mathematics & Process Automatio](https://www.ysu.am/en/faculty/85/educational-program-305)n** at **Yerevan State University**, Armenia.
 - 💡 **Experience:** 12+ years in testing, CI/CD, and quality assurance — now expanding into backend and frontend development.
 - 🌱 **Currently Learning:** Full-stack Java, Spring Boot, REST APIs, modern frontend frameworks.
 - 🔍 **Interested In:** Test automation, CI/CD pipelines, DevOps, and building scalable, maintainable systems.
@@ -18,7 +18,7 @@ I’m passionate about building reliable systems, writing clean code, and automa
 
 ### 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/roman-vanoyan)
-- ✉️ Reach me at: **roman.vanoyan@example.com** *(replace with your real email if you want it public)*
+- ✉️ Reach me at: **roman.vanoyan@testwiseconsulting.se** *(replace with your real email if you want it public)*
 
 ---
 
