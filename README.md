@@ -18,7 +18,7 @@ I’m passionate about building reliable systems, writing clean code, and automa
 
 ### 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/roman-vanoyan)
-- ✉️ Reach me at: **roman.vanoyan@testwiseconsulting.se** *(replace with your real email if you want it public)*
+- ✉️ Reach me at: **roman.vanoyan@testwiseconsulting.se** 
 
 ---
 
