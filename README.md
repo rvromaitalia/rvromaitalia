@@ -1,31 +1,15 @@
-### Hi there, I'm Roman Vanoyan 👋
+# 💫 About Me:
+🎯 Background: Studied Applied Mathematics & Process Automation at Yerevan State University, Armenia.<br>💡 Experience: 12+ years in testing, CI/CD, and quality assurance — now expanding into backend and frontend development.<br>🌱 Currently Learning: Full-stack Java, Spring Boot, REST APIs, modern frontend frameworks.<br>🔍 Interested In: Test automation, CI/CD pipelines, DevOps, and building scalable, maintainable systems.<br>🌎 Languages: Armenian 🇦🇲, English 🇬🇧, Swedish 🇸🇪<br>⚡ Fun fact: I love gardening and am building a solar-powered smart irrigation system with ESP32 + Raspberry Pi.
 
-Welcome to my GitHub profile!  
-I'm a **Technical Tester / QA Engineer** currently transitioning into **Full-Stack Development with Java**.  
-I’m passionate about building reliable systems, writing clean code, and automating processes for better software quality.
 
----
-
-### 👨‍💻 About Me
-- 🎯 **Background:** Studied **[Applied Mathematics & Process Automatio](https://www.ysu.am/en/faculty/85/educational-program-305)n** at **Yerevan State University**, Armenia.
-- 💡 **Experience:** 12+ years in testing, CI/CD, and quality assurance — now expanding into backend and frontend development.
-- 🌱 **Currently Learning:** Full-stack Java, Spring Boot, REST APIs, modern frontend frameworks.
-- 🔍 **Interested In:** Test automation, CI/CD pipelines, DevOps, and building scalable, maintainable systems.
-- 🌎 **Languages:** Armenian 🇦🇲, English 🇬🇧, Swedish 🇸🇪
-- ⚡ **Fun fact:** I love gardening and am building a solar-powered smart irrigation system with ESP32 + Raspberry Pi.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rvromaitalia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rvromaitalia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rvromaitalia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rvromaitalia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/roman-vanoyan)
-- ✉️ Reach me at: **roman.vanoyan@testwiseconsulting.se** 
-
----
-
-### 📊 GitHub Stats
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvromaitalia&show_icons=true&theme=tokyonight)
-
----
-
-### 🌱 Motto
-> *"Keep learning, keep improving — one commit at a time."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
